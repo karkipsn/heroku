@@ -1,2 +1,9 @@
 npm install
 npm install express jsonwebtoken bcryptjs body-parser --save
+push on git
+install heroku cli
+then npm install
+set path
+
+set path="C:\Program Files\Heroku\bin"
+heroku login

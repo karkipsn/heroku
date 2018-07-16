@@ -1,0 +1,2 @@
+npm install
+npm install express jsonwebtoken bcryptjs body-parser --save
